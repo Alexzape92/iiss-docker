@@ -561,4 +561,4 @@ Steps:
 # Resolución
 La imagen creada se encuentra en alexzape92/apacheserver_p1. Se puede descargar mediante:
 
-  docker pull alexzape92/apacheserver_p1
+    docker pull alexzape92/apacheserver_p1
