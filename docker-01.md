@@ -558,3 +558,7 @@ Steps:
 3. Upload the created container image to Docker Hub. The image name must be `apacheserver_P1`.
 4. Upload the Docker Hub link of your image to the CV task.
 
+# Resolución
+La imagen creada se encuentra en alexzape92/apacheserver_p1. Se puede descargar mediante:
+
+  docker pull alexzape92/apacheserver_p1
