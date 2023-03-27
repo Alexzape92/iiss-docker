@@ -16,3 +16,6 @@ Lanzamos los contenedores con
     sudo docker compose up -d
 Y vemos que funciona correctamente:
 ![](img/capturaWordpress.png)
+
+## Archivos
+Los archivos correspondientes a esta práctica se pueden encontrar [aquí](docker_3).

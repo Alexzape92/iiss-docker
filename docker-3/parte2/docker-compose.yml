@@ -1,0 +1,18 @@
+version: "3.7"
+services:
+ wordpress:
+  image: wordpress
+  container_name: 'mywordpress'
+  ports:
+   - 82:80
+  networks:
+   - redDocker
+  
+ mariadb:
+  image: mariadb
+  container_name: 'mymariadb'
+  networks:
+   - redDocker
+  
+networks:
+ redDocker:

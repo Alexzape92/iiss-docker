@@ -1,0 +1,18 @@
+version: "3.7"
+services:
+ drupal:
+  image: drupal
+  container_name: 'mydrupal'
+  ports:
+   - 81:80
+  volumes:
+   - volumenDocker:/home/alex/Documentos/IISS/docker-3/parte1/data
+
+ mysql:
+  image: mysql
+  container_name: 'mysql_container'
+  volumes:
+   - volumenDocker:/home/alex/Documentos/IISS/docker-3/parte1/data
+
+volumes:
+ volumenDocker:
