@@ -18,4 +18,7 @@ Y vemos que funciona correctamente:
 ![](img/capturaWordpress.png)
 
 ## Archivos
-Los archivos correspondientes a esta práctica se pueden encontrar [aquí](docker_3).
+Los archivos correspondientes a esta práctica se pueden encontrar aquí:
+
+- [Parte 1](docker-3/parte1/docker-compose.yml)
+- [Parte 2](docker-3/parte2/docker-compose.yml)
